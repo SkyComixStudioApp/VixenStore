@@ -4,6 +4,23 @@
     "version": "4.4",
     "icono_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/Iconos/icon.png",
     "download_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/APK/Vixen.apk",
-    "descripcion": "Descripción de la aplicación para que el usuario sepa qué hace."
+    "descripcion": "Descripción de la aplicación para que el usuario sepa qué hace. Esta se verá en la lista vertical superior.",
+    "categoria": "app"
+  },
+  {
+    "nombre": "Sky Galaxy",
+    "version": "1.0",
+    "icono_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/Iconos/game.png",
+    "download_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/APK/Game.apk",
+    "descripcion": "Juego de naves espaciales. Esta tarjeta tendrá el mismo diseño pero aparecerá en la sección inferior deslizable.",
+    "categoria": "juego"
+  },
+  {
+    "nombre": "Pixel Run",
+    "version": "2.1",
+    "icono_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/Iconos/game2.png",
+    "download_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/APK/Game2.apk",
+    "descripcion": "Un endless runner adictivo. Desliza hacia la derecha para ver más.",
+    "categoria": "juego"
   }
 ]
