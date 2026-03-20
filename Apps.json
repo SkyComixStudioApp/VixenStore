@@ -8,11 +8,11 @@
     "categoria": "app"
   },
   {
-    "nombre": "Sky Galaxy",
-    "version": "1.0",
-    "icono_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/Iconos/game.png",
-    "download_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/APK/Game.apk",
-    "descripcion": "Juego de naves espaciales. Esta tarjeta tendrá el mismo diseño",
+    "nombre": "Minecraft Bedrock",
+    "version": "1.21.1",
+    "icono_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/Iconos/MNFT.png",
+    "download_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/APK/MNFT.apk",
+    "descripcion": "Minecraft es un videojuego sandbox de construcción y aventura, famoso...",
     "categoria": "juego"
   },
   {
