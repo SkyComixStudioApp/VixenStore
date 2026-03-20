@@ -26,7 +26,7 @@
     "icono_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/Iconos/icon2.png",
     "download_url": "https://archive.org/download/helluva-game-0.1.1a/com.amadeen.helluva-0.1-1750856310-release.apk",
     "descripcion": "Helluva Game es una novela visual. 18+ desarrollado por la comunidad",
-    "categoria": "Juegos",
+    "categoria": "Juegos Android",
     "tipo_vista": "vertical_2"
   },
   {
@@ -36,8 +36,8 @@
     "icono_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/Iconos/FB.png",
     "download_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/APK/FB.apk",
     "descripcion": "El clásico juego de tocar la pantalla.",
-    "categoria": "Juegos Clásicos",
-    "tipo_vista": "horizontal"
+    "categoria": "Juegos Android",
+    "tipo_vista": "vertical_2"
   },
   {
     "nombre": "App Utilidad Ejemplo",
