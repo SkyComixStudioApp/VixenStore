@@ -5,7 +5,7 @@
     "paquete": "com.sky.vixenstore",
     "icono_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/Iconos/icon3.png",
     "download_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/APK/VixenStore.apk",
-    "descripcion": "Aplicación de cómics y Buscador.",
+    "descripcion": "Tienda de aplicaciones Android desarrollada Por OnimaruDev",
     "categoria": "Destacados",
     "tipo_vista": "horizontal_sin_nombre"
   },
@@ -15,7 +15,7 @@
     "paquete": "com.skycomix.vixen",
     "icono_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/Iconos/icon.png",
     "download_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/APK/Vixen.apk",
-    "descripcion": "Aplicación de cómics y Buscador.",
+    "descripcion": "Aplicación de cómics y Buscador de contenido hentai de todo género.",
     "categoria": "Destacados",
     "tipo_vista": "horizontal_sin_nombre"
   },
@@ -25,7 +25,7 @@
     "paquete": "com.amadeen.helluva",
     "icono_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/Iconos/icon2.png",
     "download_url": "https://archive.org/download/helluva-game-0.1.1a/com.amadeen.helluva-0.1-1750856310-release.apk",
-    "descripcion": "Helluva Game es una novela visual.",
+    "descripcion": "Helluva Game es una novela visual. 18+ desarrollado por la comunidad",
     "categoria": "Juegos",
     "tipo_vista": "vertical_2"
   },
