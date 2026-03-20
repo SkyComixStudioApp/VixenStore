@@ -2,12 +2,12 @@
   {
     "nombre": "Vixen",
     "version": "4.4",
-    "paquete": "com.sky.vixen",
+    "paquete": "com.skycomix.vixen",
     "icono_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/Iconos/icon.png",
     "download_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/APK/Vixen.apk",
     "descripcion": "Aplicación de cómics y Buscador.",
     "categoria": "Destacados",
-    "tipo_vista": "horizontal"
+    "tipo_vista": "horizontal_sin_nombre"
   },
   {
     "nombre": "Helluva Game 0.1.1a",
@@ -15,8 +15,8 @@
     "paquete": "com.amadeen.helluva",
     "icono_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/Iconos/icon2.png",
     "download_url": "https://archive.org/download/helluva-game-0.1.1a/com.amadeen.helluva-0.1-1750856310-release.apk",
-    "descripcion": "Helluva Game es una novela visual y un juego creado por fans.",
-    "categoria": "Juegos Android",
+    "descripcion": "Helluva Game es una novela visual.",
+    "categoria": "Juegos",
     "tipo_vista": "vertical_2"
   },
   {
@@ -25,9 +25,9 @@
     "paquete": "com.dotgears.flappybird",
     "icono_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/Iconos/FB.png",
     "download_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/APK/FB.apk",
-    "descripcion": "El jugador toca la pantalla...",
-    "categoria": "Juegos Android",
-    "tipo_vista": "vertical_2"
+    "descripcion": "El clásico juego de tocar la pantalla.",
+    "categoria": "Juegos Clásicos",
+    "tipo_vista": "horizontal"
   },
   {
     "nombre": "App Utilidad Ejemplo",
@@ -35,7 +35,7 @@
     "paquete": "com.ejemplo.utilidad",
     "icono_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/Iconos/icon.png",
     "download_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/APK/Vixen.apk",
-    "descripcion": "Ejemplo de cómo se ve una tarjeta grande en una sola columna vertical.",
+    "descripcion": "Herramienta avanzada del sistema.",
     "categoria": "Herramientas",
     "tipo_vista": "vertical_1"
   }
