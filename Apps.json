@@ -2,25 +2,41 @@
   {
     "nombre": "Vixen",
     "version": "4.4",
+    "paquete": "com.skycomix.vixen",
     "icono_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/Iconos/icon.png",
     "download_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/APK/Vixen.apk",
     "descripcion": "Aplicación de cómics y Buscador.",
-    "categoria": "Aplicaciones"
+    "categoria": "Destacados",
+    "tipo_vista": "horizontal"
   },
   {
-    "nombre": "(18+) Helluva Game 0.1.1a",
+    "nombre": "Helluva Game 0.1.1a",
     "version": "1.21.1",
+    "paquete": "com.amadeen.helluva",
     "icono_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/Iconos/icon2.png",
     "download_url": "https://archive.org/download/helluva-game-0.1.1a/com.amadeen.helluva-0.1-1750856310-release.apk",
-    "descripcion": "Helluva Game es una novela visual para mayores de 18 años  y un juego creado por fans sobre tu resurrec",
-    "categoria": "Juegos Android"
+    "descripcion": "Helluva Game es una novela visual y un juego creado por fans.",
+    "categoria": "Juegos Android",
+    "tipo_vista": "vertical_2"
   },
   {
     "nombre": "Flappy Bird",
     "version": "1.2",
+    "paquete": "com.dotgears.flappybird",
     "icono_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/Iconos/FB.png",
     "download_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/APK/FB.apk",
     "descripcion": "El jugador toca la pantalla...",
-    "categoria": "Juegos Android"
+    "categoria": "Juegos Android",
+    "tipo_vista": "vertical_2"
+  },
+  {
+    "nombre": "App Utilidad Ejemplo",
+    "version": "1.0",
+    "paquete": "com.ejemplo.utilidad",
+    "icono_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/Iconos/icon.png",
+    "download_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/APK/Vixen.apk",
+    "descripcion": "Ejemplo de cómo se ve una tarjeta grande en una sola columna vertical.",
+    "categoria": "Herramientas",
+    "tipo_vista": "vertical_1"
   }
 ]
