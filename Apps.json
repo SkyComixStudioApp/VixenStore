@@ -12,15 +12,15 @@
     "version": "1.21.1",
     "icono_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/Iconos/MNFT.png",
     "download_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/APK/MNFT.apk",
-    "descripcion": "Minecraft es un videojuego sandbox de construcción y aventura, famoso...",
+    "descripcion": "Minecraft es un videojuego sandbox de construcción y aventura, famoso..",
     "categoria": "juego"
   },
   {
-    "nombre": "Pixel Run",
-    "version": "2.1",
-    "icono_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/Iconos/game2.png",
-    "download_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/APK/Game2.apk",
-    "descripcion": "Un endless runner adictivo. Desliza hacia la derecha para ver más.",
+    "nombre": "Flappy Bird",
+    "version": "1.2",
+    "icono_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/Iconos/FB.png",
+    "download_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/APK/FB.apk",
+    "descripcion": "El jugador toca la pantalla para mantener a flote al pájaro..",
     "categoria": "juego"
   }
 ]
