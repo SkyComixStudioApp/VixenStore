@@ -1,4 +1,5 @@
 [
+  
   {
     "nombre": "Vixen",
     "version": "4.4",
@@ -23,12 +24,5 @@
     "descripcion": "El jugador toca la pantalla...",
     "categoria": "Juegos Android"
   },
-  {
-    "nombre": "Sketchware Pro",
-    "version": "6.4.0",
-    "icono_url": "https://tu-enlace-al-icono.png",
-    "download_url": "https://tu-enlace-de-descarga.apk",
-    "descripcion": "Entorno de desarrollo para Android..",
-    "categoria": "Herramientas de Desarrollo"
-  }
+  
 ]
