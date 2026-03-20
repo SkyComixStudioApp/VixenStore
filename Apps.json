@@ -10,6 +10,16 @@
     "tipo_vista": "horizontal_sin_nombre"
   },
   {
+    "nombre": "VixenStore",
+    "version": "1.1.0",
+    "paquete": "com.sky.vixenstore",
+    "icono_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/Iconos/icon3.png",
+    "download_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/APK/VixenStore.apk",
+    "descripcion": "Aplicación de cómics y Buscador.",
+    "categoria": "Destacados",
+    "tipo_vista": "horizontal_sin_nombre"
+  },
+  {
     "nombre": "Helluva Game 0.1.1a",
     "version": "1.21.1",
     "paquete": "com.amadeen.helluva",
