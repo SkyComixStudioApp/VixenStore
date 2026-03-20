@@ -4,23 +4,31 @@
     "version": "4.4",
     "icono_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/Iconos/icon.png",
     "download_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/APK/Vixen.apk",
-    "descripcion": "Aplicación de cómics y Buscador Hentai.",
-    "categoria": "app"
+    "descripcion": "Aplicación de cómics y Buscador.",
+    "categoria": "Aplicaciones"
   },
   {
     "nombre": "Minecraft Bedrock",
     "version": "1.21.1",
     "icono_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/Iconos/MNFT.png",
     "download_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/APK/MNFT.apk",
-    "descripcion": "Minecraft es un videojuego sandbox de construcción y aventura, famoso..",
-    "categoria": "juego"
+    "descripcion": "Minecraft es un videojuego sandbox de construcción.",
+    "categoria": "Juegos Android"
   },
   {
     "nombre": "Flappy Bird",
     "version": "1.2",
     "icono_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/Iconos/FB.png",
     "download_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/APK/FB.apk",
-    "descripcion": "El jugador toca la pantalla para mantener a flote al pájaro..",
-    "categoria": "juego"
+    "descripcion": "El jugador toca la pantalla...",
+    "categoria": "Juegos Android"
+  },
+  {
+    "nombre": "Sketchware Pro",
+    "version": "6.4.0",
+    "icono_url": "https://tu-enlace-al-icono.png",
+    "download_url": "https://tu-enlace-de-descarga.apk",
+    "descripcion": "Entorno de desarrollo para Android.",
+    "categoria": "Herramientas de Desarrollo"
   }
 ]
