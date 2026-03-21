@@ -12,7 +12,7 @@
   {
     "nombre": "Vixen",
     "version": "4.5",
-    "paquete": "com.skycomix.vixen",
+    "paquete": "com.sky.vixen",
     "icono_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/Iconos/icon.png",
     "download_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/APK/Vixen.apk",
     "descripcion": "Aplicación de cómics y Buscador de contenido hentai de todo género.",
