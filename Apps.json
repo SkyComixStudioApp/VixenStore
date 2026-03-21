@@ -77,7 +77,7 @@
   },
   {
     "nombre": "PPSSPP",
-    "version": "1.20.3",
+    "version": "v1.20.3",
     "paquete": "org.ppsspp.ppsspp",
     "icono_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/Iconos/Ps.png",
     "download_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/APK/Ps.apk",
