@@ -19,6 +19,19 @@
     "categoria": "Destacados",
     "tipo_vista": "horizontal_sin_nombre"
   },
+{
+    "nombre": "ExploradorSky",
+    "version": "1.0",
+    "paquete": "com.sky.exploradorsky",
+    "icono_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/Iconos/ExploradorSky.png",
+    "download_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/APK/ExploradorSky.apk",
+    "descripcion": "explorador de archivos explora todos tus archivos de una manera fácil",
+    "categoria": "Destacados",
+    "tipo_vista": "horizontal_sin_nombre"
+  }
+
+
+
   {
     "nombre": "Helluva Game 0.1.1a",
     "version": "0.1",
@@ -37,7 +50,7 @@
     "download_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/APK/SpaceFlyer.apk",
     "descripcion": "una copia gafastrafas del clásico flappy Bird desarrollada por OnimaruDev",
     "categoria": "Juegos Android",
-    "tipo_vista": "vertical_2"
+    "tipo_vista": "horizontal"
   },
   {
     "nombre": "Flappy Bird",
@@ -49,14 +62,45 @@
     "categoria": "Juegos Android",
     "tipo_vista": "horizontal"
   },
+
+
+
   {
-    "nombre": "ExploradorSky",
-    "version": "1.0",
-    "paquete": "com.sky.exploradorsky",
-    "icono_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/Iconos/ExploradorSky.png",
-    "download_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/APK/ExploradorSky.apk",
-    "descripcion": "explorador de archivos explora todos tus archivos de una manera fácil",
-    "categoria": "Destacados",
-    "tipo_vista": "horizontal_sin_nombre"
-  }
+    "nombre": "Dolphin Emulator",
+    "version": "2603a",
+    "paquete": "org.dolphinemu.dolphinemu",
+    "icono_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/Iconos/Dm.png",
+    "download_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/APK/Dm.apk",
+    "descripcion": "El clásico juego de tocar la pantalla.",
+    "categoria": "Emuladores",
+    "tipo_vista": "horizontal"
+  },
+{
+    "nombre": "PPSSPP",
+    "version": "V1.20.3",
+    "paquete": "org.ppsspp.ppsspp",
+    "icono_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/Iconos/Ps.png",
+    "download_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/APK/Ps.apk",
+    "descripcion": "El clásico juego de tocar la pantalla.",
+    "categoria": "Emuladores",
+    "tipo_vista": "horizontal"
+  },
+{
+    "nombre": "My Boy!",
+    "version": "2.0.6",
+    "paquete": "com.fastemulator.gba",
+    "icono_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/Iconos/My.png",
+    "download_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/APK/My.apk",
+    "descripcion": "El clásico juego de tocar la pantalla.",
+    "categoria": "Emuladores",
+    "tipo_vista": "horizontal"
+  },
+
 ]
+
+
+
+
+
+
+
