@@ -19,7 +19,7 @@
     "categoria": "Destacados",
     "tipo_vista": "horizontal_sin_nombre"
   },
-{
+  {
     "nombre": "ExploradorSky",
     "version": "1.0",
     "paquete": "com.sky.exploradorsky",
@@ -28,7 +28,10 @@
     "descripcion": "explorador de archivos explora todos tus archivos de una manera fácil",
     "categoria": "Destacados",
     "tipo_vista": "horizontal_sin_nombre"
-  }
+  },
+
+
+
   {
     "nombre": "Helluva Game 0.1.1a",
     "version": "0.1",
@@ -59,6 +62,9 @@
     "categoria": "Juegos Android",
     "tipo_vista": "horizontal"
   },
+
+
+
   {
     "nombre": "Dolphin Emulator",
     "version": "2603a",
@@ -69,7 +75,7 @@
     "categoria": "Emuladores",
     "tipo_vista": "horizontal"
   },
-{
+  {
     "nombre": "PPSSPP",
     "version": "V1.20.3",
     "paquete": "org.ppsspp.ppsspp",
@@ -79,7 +85,7 @@
     "categoria": "Emuladores",
     "tipo_vista": "horizontal"
   },
-{
+  {
     "nombre": "My Boy!",
     "version": "2.0.6",
     "paquete": "com.fastemulator.gba",
@@ -88,5 +94,10 @@
     "descripcion": "El clásico juego de tocar la pantalla.",
     "categoria": "Emuladores",
     "tipo_vista": "horizontal"
-  },
+  }
+
+
+
+
+
 ]
