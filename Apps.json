@@ -50,12 +50,12 @@
     "tipo_vista": "horizontal"
   },
   {
-    "nombre": "App Utilidad Ejemplo",
+    "nombre": "ExploradorSky",
     "version": "1.0",
-    "paquete": "com.ejemplo.utilidad",
-    "icono_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/Iconos/icon.png",
-    "download_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/APK/Vixen.apk",
-    "descripcion": "Herramienta avanzada del sistema..",
+    "paquete": "com.sky.exploradorsky",
+    "icono_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/Iconos/ExploradorSky.png",
+    "download_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/APK/ExploradorSky.apk",
+    "descripcion": "explorador de archivos explora todos tus archivos de una manera fácil",
     "categoria": "Herramientas",
     "tipo_vista": "vertical_1"
   }
