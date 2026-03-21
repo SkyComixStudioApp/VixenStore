@@ -29,9 +29,6 @@
     "categoria": "Destacados",
     "tipo_vista": "horizontal_sin_nombre"
   }
-
-
-
   {
     "nombre": "Helluva Game 0.1.1a",
     "version": "0.1",
@@ -62,9 +59,6 @@
     "categoria": "Juegos Android",
     "tipo_vista": "horizontal"
   },
-
-
-
   {
     "nombre": "Dolphin Emulator",
     "version": "2603a",
@@ -95,12 +89,4 @@
     "categoria": "Emuladores",
     "tipo_vista": "horizontal"
   },
-
 ]
-
-
-
-
-
-
-
