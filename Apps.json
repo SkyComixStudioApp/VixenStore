@@ -37,7 +37,7 @@
     "download_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/APK/SpaceFlyer.apk",
     "descripcion": "una copia gafastrafas del clásico flappy Bird desarrollada por OnimaruDev",
     "categoria": "Juegos Android",
-    "tipo_vista": "horizontal"
+    "tipo_vista": "vertical_2"
   },
   {
     "nombre": "Flappy Bird",
@@ -57,6 +57,6 @@
     "download_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/APK/ExploradorSky.apk",
     "descripcion": "explorador de archivos explora todos tus archivos de una manera fácil",
     "categoria": "Herramientas",
-    "tipo_vista": "vertical_1"
+    "tipo_vista": "vertical_2"
   }
 ]
