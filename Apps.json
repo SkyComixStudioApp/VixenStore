@@ -1,7 +1,7 @@
 [
   {
     "nombre": "VixenStore",
-    "version": "1.0",
+    "version": "1.1.0",
     "paquete": "com.sky.vixenstore",
     "icono_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/Iconos/icon3.png",
     "download_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/APK/VixenStore.apk",
