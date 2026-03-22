@@ -81,10 +81,10 @@
     "tipo_vista": "horizontal"
   },
   {
-    "nombre": "Morph Mod",
-    "version": "1.5",
-    "icono_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/Iconos/morph.png",
-    "download_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/APK/morph.zip",
+    "nombre": "Actions Stuff",
+    "version": "1.9",
+    "icono_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/Iconos/Actions Stuff.png",
+    "download_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/Mods/Actions Stuff.mcpack",
     "categoria": "Mods de Minecraft",
     "tipo_vista": "carrusel_doble"
   },
