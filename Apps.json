@@ -5,7 +5,6 @@
     "paquete": "com.sky.vixenstore",
     "icono_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/Iconos/icon3.png",
     "download_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/APK/VixenStore.apk",
-    "descripcion": "Tienda oficial de VixenStudio.",
     "categoria": "Destacados",
     "tipo_vista": "horizontal_sin_nombre"
   },
@@ -15,47 +14,38 @@
     "paquete": "com.sky.vixen",
     "icono_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/Iconos/icon.png",
     "download_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/APK/Vixen.apk",
-    "descripcion": "Aplicación de contenido visual y cómics.",
     "categoria": "Destacados",
     "tipo_vista": "horizontal_sin_nombre"
   },
   {
     "nombre": "Morph Mod",
-    "version": "1.1",
-    "paquete": "com.vixen.mod.morph",
+    "version": "1.0",
     "icono_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/Iconos/morph.png",
     "download_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/APK/morph.zip",
-    "descripcion": "Transfórmate en cualquier criatura que derrotes.",
     "categoria": "Mods de Minecraft",
     "tipo_vista": "carrusel_doble"
   },
   {
     "nombre": "Furniture Mod",
     "version": "2.1",
-    "paquete": "com.vixen.mod.furniture",
     "icono_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/Iconos/furniture.png",
     "download_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/APK/furniture.zip",
-    "descripcion": "Añade más de 50 tipos de muebles a tu casa.",
     "categoria": "Mods de Minecraft",
     "tipo_vista": "carrusel_doble"
   },
   {
     "nombre": "Lucky Block",
     "version": "3.5",
-    "paquete": "com.vixen.mod.lucky",
     "icono_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/Iconos/lucky.png",
     "download_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/APK/lucky.zip",
-    "descripcion": "Prueba tu suerte rompiendo bloques amarillos.",
     "categoria": "Mods de Minecraft",
     "tipo_vista": "carrusel_doble"
   },
   {
     "nombre": "Waystones Mod",
     "version": "1.2",
-    "paquete": "com.vixen.mod.waystones",
     "icono_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/Iconos/waystones.png",
     "download_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/APK/waystones.zip",
-    "descripcion": "Teletranspórtate entre bases fácilmente.",
     "categoria": "Mods de Minecraft",
     "tipo_vista": "carrusel_doble"
   },
@@ -65,7 +55,6 @@
     "paquete": "com.sky.exploradorsky",
     "icono_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/Iconos/folder.png",
     "download_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/APK/ExploradorSky.apk",
-    "descripcion": "Gestor de archivos ligero y rápido.",
     "categoria": "Utilidades",
     "tipo_vista": "horizontal"
   },
@@ -75,7 +64,6 @@
     "paquete": "com.vixen.fb",
     "icono_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/Iconos/Fb.png",
     "download_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/APK/FB.apk",
-    "descripcion": "El clásico juego de esquivar tuberías.",
     "categoria": "Juegos Android",
     "tipo_vista": "horizontal"
   },
@@ -85,7 +73,6 @@
     "paquete": "org.dolphinemu.dolphinemu",
     "icono_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/Iconos/Dm.png",
     "download_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/APK/Dm.apk",
-    "descripcion": "Emulador de GameCube y Wii para Android.",
     "categoria": "Emuladores",
     "tipo_vista": "horizontal"
   },
@@ -95,7 +82,6 @@
     "paquete": "org.ppsspp.ppsspp",
     "icono_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/Iconos/Ps.png",
     "download_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/APK/Ps.apk",
-    "descripcion": "El mejor emulador de PSP para móviles.",
     "categoria": "Emuladores",
     "tipo_vista": "horizontal"
   }
