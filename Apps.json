@@ -5,7 +5,7 @@
     "paquete": "com.sky.vixenstore",
     "icono_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/Iconos/icon3.png",
     "download_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/APK/VixenStore.apk",
-    "descripcion": "Tienda de aplicaciones Android desarrollada Por OnimaruDev",
+    "descripcion": "Tienda oficial de VixenStudio.",
     "categoria": "Destacados",
     "tipo_vista": "horizontal_sin_nombre"
   },
@@ -15,63 +15,77 @@
     "paquete": "com.sky.vixen",
     "icono_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/Iconos/icon.png",
     "download_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/APK/Vixen.apk",
-    "descripcion": "Aplicación de cómics y Buscador de contenido hentai de todo género.",
+    "descripcion": "Aplicación de contenido visual y cómics.",
     "categoria": "Destacados",
     "tipo_vista": "horizontal_sin_nombre"
+  },
+  {
+    "nombre": "Morph Mod",
+    "version": "1.0",
+    "paquete": "com.vixen.mod.morph",
+    "icono_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/Iconos/morph.png",
+    "download_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/APK/morph.zip",
+    "descripcion": "Transfórmate en cualquier criatura que derrotes.",
+    "categoria": "Mods de Minecraft",
+    "tipo_vista": "carrusel_doble"
+  },
+  {
+    "nombre": "Furniture Mod",
+    "version": "2.1",
+    "paquete": "com.vixen.mod.furniture",
+    "icono_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/Iconos/furniture.png",
+    "download_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/APK/furniture.zip",
+    "descripcion": "Añade más de 50 tipos de muebles a tu casa.",
+    "categoria": "Mods de Minecraft",
+    "tipo_vista": "carrusel_doble"
+  },
+  {
+    "nombre": "Lucky Block",
+    "version": "3.5",
+    "paquete": "com.vixen.mod.lucky",
+    "icono_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/Iconos/lucky.png",
+    "download_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/APK/lucky.zip",
+    "descripcion": "Prueba tu suerte rompiendo bloques amarillos.",
+    "categoria": "Mods de Minecraft",
+    "tipo_vista": "carrusel_doble"
+  },
+  {
+    "nombre": "Waystones Mod",
+    "version": "1.2",
+    "paquete": "com.vixen.mod.waystones",
+    "icono_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/Iconos/waystones.png",
+    "download_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/APK/waystones.zip",
+    "descripcion": "Teletranspórtate entre bases fácilmente.",
+    "categoria": "Mods de Minecraft",
+    "tipo_vista": "carrusel_doble"
   },
   {
     "nombre": "ExploradorSky",
     "version": "1.0",
     "paquete": "com.sky.exploradorsky",
-    "icono_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/Iconos/ExploradorSky.png",
+    "icono_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/Iconos/folder.png",
     "download_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/APK/ExploradorSky.apk",
-    "descripcion": "explorador de archivos explora todos tus archivos de una manera fácil",
-    "categoria": "Destacados",
-    "tipo_vista": "horizontal_sin_nombre"
-  },
-
-
-
-  {
-    "nombre": "Helluva Game 0.1.1a",
-    "version": "0.1",
-    "paquete": "com.amadeen.helluva",
-    "icono_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/Iconos/icon2.png",
-    "download_url": "https://archive.org/download/helluva-game-0.1.1a/com.amadeen.helluva-0.1-1750856310-release.apk",
-    "descripcion": "Helluva Game es una novela visual. 18+ desarrollado por la comunidad",
-    "categoria": "Juegos Android",
+    "descripcion": "Gestor de archivos ligero y rápido.",
+    "categoria": "Utilidades",
     "tipo_vista": "horizontal"
   },
   {
-    "nombre": "SpaceFlyer",
-    "version": "1.1",
-    "paquete": "com.sky.spaceflyer",
-    "icono_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/Iconos/SpaceFlyer.png",
-    "download_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/APK/SpaceFlyer.apk",
-    "descripcion": "una copia gafastrafas del clásico flappy Bird desarrollada por OnimaruDev",
-    "categoria": "Juegos Android",
-    "tipo_vista": "horizontal"
-  },
-  {
-    "nombre": "Flappy Bird",
-    "version": "1.3",
-    "paquete": "com.dotgears.flappybird",
-    "icono_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/Iconos/FB.png",
+    "nombre": "Flappy Bird Vixen",
+    "version": "1.0",
+    "paquete": "com.vixen.fb",
+    "icono_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/Iconos/Fb.png",
     "download_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/APK/FB.apk",
-    "descripcion": "El clásico juego de tocar la pantalla.",
+    "descripcion": "El clásico juego de esquivar tuberías.",
     "categoria": "Juegos Android",
     "tipo_vista": "horizontal"
   },
-
-
-
   {
     "nombre": "Dolphin Emulator",
     "version": "2603a",
     "paquete": "org.dolphinemu.dolphinemu",
     "icono_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/Iconos/Dm.png",
     "download_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/APK/Dm.apk",
-    "descripcion": "El clásico juego de tocar la pantalla.",
+    "descripcion": "Emulador de GameCube y Wii para Android.",
     "categoria": "Emuladores",
     "tipo_vista": "horizontal"
   },
@@ -81,23 +95,8 @@
     "paquete": "org.ppsspp.ppsspp",
     "icono_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/Iconos/Ps.png",
     "download_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/APK/Ps.apk",
-    "descripcion": "El clásico juego de tocar la pantalla.",
-    "categoria": "Emuladores",
-    "tipo_vista": "horizontal"
-  },
-  {
-    "nombre": "My Boy!",
-    "version": "2.0.6",
-    "paquete": "com.fastemulator.gba",
-    "icono_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/Iconos/My.png",
-    "download_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/APK/My.apk",
-    "descripcion": "El clásico juego de tocar la pantalla.",
+    "descripcion": "El mejor emulador de PSP para móviles.",
     "categoria": "Emuladores",
     "tipo_vista": "horizontal"
   }
-
-
-
-
-
 ]
