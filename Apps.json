@@ -21,7 +21,7 @@
   },
   {
     "nombre": "Morph Mod",
-    "version": "1.0",
+    "version": "1.1",
     "paquete": "com.vixen.mod.morph",
     "icono_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/Iconos/morph.png",
     "download_url": "https://raw.githubusercontent.com/SkyComixStudioApp/VixenStore/main/APK/morph.zip",
